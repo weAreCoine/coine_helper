@@ -1,6 +1,7 @@
 {
     "name": "coine/wp_helper",
     "description": "A set of helpers functions and classes to modernize Wordpress Developement",
+    "version": "0.1",
     "type": "library",
     "require": {
         "php": ">=8.2",
